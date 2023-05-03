@@ -3,5 +3,6 @@ This project investigates the impact of Redshift on Classification of astronomic
 
 ## ML model training and evaluation architecture
 
-![Architecture](https://user-images.githubusercontent.com/108488940/235206598-fe21230e-3f21-4187-9276-91428c44a5bd.png)
+![Architecture](https://user-images.githubusercontent.com/108488940/235837891-16cf41b1-009c-4b11-abcd-a62eda8eb562.png)
+
 
