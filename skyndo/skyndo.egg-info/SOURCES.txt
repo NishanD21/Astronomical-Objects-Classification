@@ -1,6 +1,0 @@
-setup.py
-skyndo.egg-info/PKG-INFO
-skyndo.egg-info/SOURCES.txt
-skyndo.egg-info/dependency_links.txt
-skyndo.egg-info/requires.txt
-skyndo.egg-info/top_level.txt
