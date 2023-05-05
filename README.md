@@ -32,4 +32,3 @@ skyndo - folder consisting files created for "skyndo" python package.
 
 9_package_test - Jupyter Source file of package testing.
 
-10_sgq_predictor - Python Source file to predict the class of astronomical objects for given parameters.
